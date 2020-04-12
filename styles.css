@@ -1,0 +1,22 @@
+body {
+  background-color: #fb7b6b;
+}
+
+hr {
+
+
+  width: 100%;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #522d5b;
+  border: none;
+
+
+
+}
+
+h1 {
+  font-size: 40px;
+  color: #202040
+}
